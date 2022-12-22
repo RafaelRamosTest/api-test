@@ -11,9 +11,15 @@ import io.cucumber.junit.Cucumber;
 				 ,publish = true
 			   //,tags= ("@accounts")
 			   //,tags= ("@codes")
+			   //,tags= ("@payments")
 			   //,tags= ("@registrarCodeSucesso")
-			   ,tags= ("@consultarContaSucesso")
+			   //,tags= ("@registrarCodeErro")
+			   //,tags= ("@consultarContaSucesso")
 			   //,tags= ("@consultarContaErro")
+			   //,tags= ("@consultarContaErro")
+			   //,tags= ("@registrarPaymentsSucesso")
+			   //,tags= ("@registrarPaymentsErro")
+			   //,tags= ("@registrarPaymentsErro2")
 						 
 				)
 public class TestRunner {
