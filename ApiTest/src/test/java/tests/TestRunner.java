@@ -14,7 +14,7 @@ import io.cucumber.junit.Cucumber;
 			   //,tags= ("@payments")
 			   //,tags= ("@registrarCodeSucesso")
 			   //,tags= ("@registrarCodeErro")
-			   //,tags= ("@consultarContaSucesso")
+			   ,tags= ("@consultarContaSucesso")
 			   //,tags= ("@consultarContaErro")
 			   //,tags= ("@consultarContaErro")
 			   //,tags= ("@registrarPaymentsSucesso")
